@@ -4,7 +4,7 @@ I'm a self-taught developer passionate about backend systems and **Golang**.
 Currently learning to build fast, scalable APIs and cloud-native applications.
 
 ### 🔧 Tech I'm Exploring:
-- **Languages**: Go, a bit of JavaScript
+- **Language**: Go
 - **Tools**: REST API, gRPC, Docker, PostgreSQL
 - **Concepts**: Microservices, Clean Architecture, Concurrency
 
