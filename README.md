@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Azril
 
-<!--
-**azrilcode/azrilcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer passionate about backend systems and **Golang**.  
+Currently learning to build fast, scalable APIs and cloud-native applications.
 
-Here are some ideas to get you started:
+### 🔧 Tech I'm Exploring:
+- **Languages**: Go, a bit of JavaScript
+- **Tools**: REST API, gRPC, Docker, PostgreSQL
+- **Concepts**: Microservices, Clean Architecture, Concurrency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals:
+- Become a backend engineer by **2030**
+- Contribute to open source projects
+- Build real-world backend systems
+
+### 📫 Let's connect:
+- 🇮🇩 Based in Indonesia
+- 💻 Open to collaboration & learning
+- ✉️ Coming soon: blog / LinkedIn / portfolio
+
+---
+
+Thanks for visiting my profile!
